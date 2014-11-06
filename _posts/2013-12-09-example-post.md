@@ -1,15 +1,13 @@
 ---
 layout: post
-title: Example post
-cover: cover.jpg
-date:   2013-12-09 12:00:00
+title: New pieces at Woodland Empire
+cover: woodland.jpg
+date:   2014-11-06 12:00:00
 categories: posts
 ---
 
-## Introducing Flex, a Jekyll theme
+## Five pieces now hung at [Woodland Empire](http://woodlandempire.com/)
 
-Flex is a minimalist, responsive theme based on the website, [The Development](http://thedevelopment.co).
+New art for sale at Woodland Empire. Prints of several of the pieces will be available for $25 on request.
 
-## Open Sourced on GitHub
-
-Flex is open sourced on GitHub and is licensed under the [MIT License](http://opensource.org/licenses/MIT). Feel free to contribute to it anytime!
+(photos go here)
