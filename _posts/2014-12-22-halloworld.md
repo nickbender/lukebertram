@@ -11,4 +11,4 @@ categories: posts rad totallysick
 New art for sale at [my house](http://penny-arcade.com).
 <br><br>
 Here is the picture again for fun.
-<br>![way to be blind, jerk!](forms2.png)
+<br>![way to be blind, jerk!](https://raw.githubusercontent.com/nickbender/lukebertram/gh-pages/images/forms2.png)
